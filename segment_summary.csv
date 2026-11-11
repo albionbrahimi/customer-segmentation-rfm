@@ -1,0 +1,5 @@
+Segment,customers,Recency,Frequency,Monetary,revenue,customer_share,revenue_share
+Champions,713,12.171,13.752,8088.018,5766757.07,0.164,0.649
+Slipping regulars,1166,71.636,4.079,1801.778,2100873.023,0.269,0.236
+Lost / one-off,1622,181.507,1.317,340.999,553099.771,0.374,0.062
+New / promising,837,17.699,2.192,557.323,466479.03,0.193,0.052
